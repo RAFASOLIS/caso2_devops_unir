@@ -1,4 +1,5 @@
 ---
 
-repo_dir: '~/devopslabs'
+#Indicamos el repositorio Github y el directorio con los fichero para Asinble
+repo_dir: '~/caso2_devops_unir'
 examples_dir: '~/ansible'
